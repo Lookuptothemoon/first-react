@@ -1,0 +1,14 @@
+.form-wrapper {
+	background-color: hotpink;
+	padding: 30vh 0 30vh 0;
+}
+
+.form {
+	margin-left: 5%;
+	margin-right: 5%;
+	border: 1px solid black;
+}
+
+.form-feedback {
+	margin-left: 5%;
+}

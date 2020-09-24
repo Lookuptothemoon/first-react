@@ -1,0 +1,30 @@
+.main {
+	background-color: purple;
+	padding: 10px 0 10px;
+	color: white;
+}
+
+.todo-wrapper {
+	border-radius: 15px;
+	color: black;
+	background-color: white;
+	padding: 15px 0 30px;
+	margin: 0 20% 0 20%;
+}
+
+.todo-content {
+	padding-top: 15px;
+	border-top: 1px solid black;
+}
+
+.center {
+	text-align: center;
+}
+
+#undone-notice {
+	color: red;
+}
+
+#done-notice {
+	color: green;
+}

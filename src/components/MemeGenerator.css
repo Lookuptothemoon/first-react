@@ -1,0 +1,52 @@
+.meme-wrapper {
+	background-color: magenta;
+	padding: 5px 0 50px 0;
+	text-align: center;
+}
+
+.meme-content {
+	position: relative;
+}
+
+.top-text, .bottom-text {
+	text-shadow: 3px 3px 2px black;
+	color: white;
+}
+
+.top-text {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.bottom-text {
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	transform: translate(-50%, 0);
+}
+
+.meme-form {
+	background-color: white;
+	padding: 20px 0;
+	margin: 0 30%;
+	border-radius: 10px;
+}
+
+.meme-img {
+	height: 300px;
+	width: auto;
+}
+
+.generate-button {
+	background-color: purple;
+	color: white;
+	font-size: 20px;
+	border-radius: 5px;
+	height: 35px;
+}
+
+.generate-button:hover {
+	cursor: pointer;
+}

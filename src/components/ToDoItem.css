@@ -1,0 +1,16 @@
+.todo-item{
+	margin-left: 50px;
+	color: black;
+}
+
+#todo-label{
+	margin-left: 10px;
+}
+
+.doneToDo {
+	text-decoration: line-through;
+}
+
+.urgent {
+	color: red;
+}
