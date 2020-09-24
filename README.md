@@ -1,3 +1,17 @@
+## Background
+This project was created in order to complete a Youtube tutorial (https://www.youtube.com/watch?v=DLX62G4lc44).
+Included in this project are 6 sections
+1. Header w/ rotating React logo (pre-installed)
+2. Random dog picture (from public API --> https://random.dog/woof.json)
+3. Form
+4. To Do List
+5. Meme generator
+6. Footer
+
+In order to run the program, please follow the instructions below. Let me know if there are any issues.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
